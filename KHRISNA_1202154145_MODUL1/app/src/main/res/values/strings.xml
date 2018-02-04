@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KHRISNA_1202154145_MODUL1</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="Text1">Makan Malam</string>
+    <string name="Text2">Dengan Millea</string>
+    <string name="Input1">Masukan Menu Makanan</string>
+    <string name="Input2">Masukan Jumlah Porsi</string>
+    <string name="Button1">EATBUS</string>
+    <string name="button2">ABNORMAL</string>
+</resources>
